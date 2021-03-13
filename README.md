@@ -21,4 +21,4 @@ source venv/bin/activate
 python p3.py
 ```
 ## Note
-main.py answers the first two part of the report and p3.py is for the part-3.
+main.py answers the first two part of the report and p3.py is for part-3.
